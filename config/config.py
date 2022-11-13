@@ -22,7 +22,7 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "900")
 )
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001663015190"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001823569050)
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ʟᴇɢᴇɴᴅ ✘ ᴍᴜsɪᴄ")
 
@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/yaarokiyaariHRANDA")
+    "SUPPORT_CHANNEL", "https://t.me/DevilsServer")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/DXLUCKYGROUP")
+    "SUPPORT_GROUP", "https://t.me/DevilsHaveliMF")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
